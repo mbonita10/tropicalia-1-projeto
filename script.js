@@ -18,21 +18,3 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
 });
-.menu-acessibilidade{
-    position: fixed;
-    top:2rem;
-    right:20px;
-    z-index: 1000;
-}
-   .rotacao-botao{ 
-      transform: rotate(-90deg);
-      transform-origin: right center;
-}
-.opcoes-acessibilidade{
-    margin-top:10px;
-    display: flex;
-    flex-direction: column;
-}
-.opcoes-acessibilidade button{
-    margin-bottom: 5px;
-}
